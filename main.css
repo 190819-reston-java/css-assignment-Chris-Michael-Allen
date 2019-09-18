@@ -1,0 +1,38 @@
+body {
+    background-color: #FFFFE0;
+    border: solid;
+    border-width: 3px;
+    border-color: #A52a2a; 
+    width: 400px;
+}
+
+.h1 {
+    margin-left: 10px;
+}
+
+.picture {
+    border: solid;
+    border-color: #FFA500;
+    border-width: 6px;
+    margin-bottom: 24px;
+    margin-left: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.important {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#text {
+    margin-left: 10px;
+    width: 300px;
+    background-color: #FFFF00;
+    border: dashed;
+    border-color: #FFA500;
+    border-width: 6px;
+    height: 200px;
+    overflow: auto;
+    margin-bottom: 10px;
+}
